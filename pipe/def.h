@@ -12,4 +12,4 @@
 
 #define VANILLA_PIPE_SYNC_CODE(x) (VANILLA_PIPE_CC_SYNC | (x & 0xFFFF))
 
-#endif // VANILLA_PIPE_DEF_H
+#endif // VANILLA_PIPE_DEF_H the
